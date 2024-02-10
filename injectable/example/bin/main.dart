@@ -1,4 +1,4 @@
-import 'package:example/injector/injector.config.dart';
+import 'package:example/injector/injector.locator.dart';
 import 'package:get_it/get_it.dart';
 import 'package:injectable/injectable.dart';
 

@@ -1,6 +1,7 @@
 import 'package:get_it/get_it.dart';
 import 'package:injectable/injectable.dart';
-import 'injector.config.dart';
+
+import 'injector.locator.dart';
 
 const platformMobile = Environment('platformMobile');
 const platformWeb = Environment('platformWeb');
